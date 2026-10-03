@@ -1,0 +1,17 @@
+{
+  "name": "vigenere-cipher",
+  "version": "0.1.0",
+  "description": "Enciphers and deciphers text using a polyalphabetic substitution controlled by a repeating keyword.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
